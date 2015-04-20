@@ -33,8 +33,8 @@ public class Soal {
     
     public static void main(String[] args) {
         Soal A = new Soal();
-        A.pangkat(5, 2);
-        A.faktorial(8);
-        A.perkalian(7, 5);
+        A.pangkat(10, 2);
+        A.faktorial(9);
+        A.perkalian(2, 5);
     }
 }
