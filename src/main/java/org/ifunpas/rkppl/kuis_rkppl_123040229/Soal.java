@@ -27,8 +27,8 @@ public class Soal {
         return hasil;
     }
     
-    public int perkalian(int bilA, int bilB){
-        return bilA * bilB;
+    public int perkalian(int bil1, int bil2){
+        return bil1 * bil2;
     }
     
     public static void main(String[] args) {
